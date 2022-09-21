@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - :revolving_hearts:️ I’m looking to collaborate on my projects, please feel free to collaborate.
 - :speech_balloon: Ask me about **JavaScript, HTML, CSS and React.**
 - :mailbox: How to reach me hudem2523@gmail.com**
-- :mailbox: LinkedIn --> **https://https://www.linkedin.com/in/huriye-demiroglu/**
+- :mailbox: LinkedIn --> **https://www.linkedin.com/in/huriye-demiroglu**
 </p>
 <h3 align="left">Technologies:</h3>
 <p align="left">
