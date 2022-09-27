@@ -10,11 +10,7 @@ Here are some ideas to get you started:
 - :smile: Pronouns: ...
 - :zap: Fun fact: ...
 -->
-- Hi, I’m @huriyedemiroglu. I have a Software Developer.
-- :eyes: I’m aiming to be a Front-End Web Developer.
-- :seedling: I’m currently learning Javascript. React is on the way. Also interesting in Web3.
-- :revolving_hearts:️ I’m looking to collaborate on my projects, please feel free to collaborate.
-- :speech_balloon: Ask me about **JavaScript, HTML, CSS and React.**
+- :eyes: I’m  a Front-End Web Developer.
 - :mailbox: How to reach me hudem2523@gmail.com**
 - :mailbox: LinkedIn --> **https://www.linkedin.com/in/huriye-demiroglu**
 </p>
