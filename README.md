@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - :zap: Fun fact: ...
 -->
 - :eyes: I’m  a Front-End Web Developer.
-- :mailbox: How to reach me hudem2523@gmail.com**
-- :mailbox: LinkedIn --> **https://www.linkedin.com/in/huriye-demiroglu**
+- :mailbox: How to reach me demirogluhu@gmail.com**
+
 </p>
 <h3 align="left">Technologies:</h3>
 <p align="left">
